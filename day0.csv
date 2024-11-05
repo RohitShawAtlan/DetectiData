@@ -1,0 +1,10 @@
+Source,Table,Overall score,Accuracy,Completeness,Uniqueness,Validity,Rows scanned
+MS SQL Server,wwi.Sales.CustomerCategories,100,100,100,100,100,8
+MS SQL Server,wwi.Sales.BuyingGroups,100,100,100,100,100,2
+MS SQL Server,wwi.Sales.Customers,49,60,40,40,56,600
+MS SQL Server,wwi.Application.People,35,60,30,20,30,950
+MS SQL Server,wwi.Warehouse.Colors,90,100,100,60,100,35
+MS SQL Server,wwi.Warehouse.PackageTypes,100,100,100,100,100,14
+MS SQL Server,wwi.Warehouse.StockItems,35,60,30,20,30,220
+MS SQL Server,wwi.Sales.OrderLines,79,80,100,60,76,176289
+MS SQL Server,wwi.Sales.Orders,80,80,100,60,80,68357
